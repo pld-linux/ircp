@@ -7,8 +7,8 @@ License:	GPL
 Group:		Networking/Utilities
 Source0:	http://dl.sourceforge.net/openobex/%{name}-%{version}.tar.gz
 URL:		http://sourceforge.net/projects/openobex/
-Requires:	openobex >= 0.9.8
 BuildRequires:	openobex-devel >= 0.9.8
+Requires:	openobex >= 0.9.8
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
@@ -21,8 +21,7 @@ Program do wysy³ania i pobierania plików przez protokó³ IrXfer.
 %setup -q
 
 %build
-CFLAGS="%{rpmcflags}" \
-./configure --prefix=%{_prefix}
+%configure2_13
 
 %{__make}
 
