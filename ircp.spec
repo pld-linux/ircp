@@ -2,7 +2,7 @@ Summary:	A utility for sending and retrieving files using the IrXfer protocol
 Summary(pl):	Program do wysy³ania i pobierania plików przez protokó³ IrXfer
 Name:		ircp
 Version:	0.2
-Release:	0.1
+Release:	1
 License:	GPL
 Group:		Networking/Utilities
 Source0:	ftp://ftp.sourceforge.net/pub/sourceforge/openobex/%{name}-%{version}.tar.gz
