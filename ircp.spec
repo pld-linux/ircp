@@ -5,7 +5,7 @@ Version:	0.3
 Release:	1
 License:	GPL
 Group:		Networking/Utilities
-Source0:	ftp://ftp.sourceforge.net/pub/sourceforge/openobex/%{name}-%{version}.tar.gz
+Source0:	http://dl.sourceforge.net/openobex/%{name}-%{version}.tar.gz
 URL:		http://sourceforge.net/projects/openobex/
 Requires:	openobex >= 0.9.8
 BuildRequires:	openobex-devel >= 0.9.8
