@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Networking/Utilities
 Source0:	http://dl.sourceforge.net/openobex/%{name}-%{version}.tar.gz
+# Source0-md5:	a77124e7efa6b31369404371485179b2
 URL:		http://sourceforge.net/projects/openobex/
 BuildRequires:	openobex-devel >= 0.9.8
 Requires:	openobex >= 0.9.8
