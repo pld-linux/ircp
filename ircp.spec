@@ -1,5 +1,5 @@
 Summary:	A utility for sending and retrieving files using the IrXfer protocol
-Summary(pl):	Program do wysy砤nia i pobierania plik體 przez protok蟪 IrXfer
+Summary(pl.UTF-8):   Program do wysy艂ania i pobierania plik贸w przez protok贸艂 IrXfer
 Name:		ircp
 Version:	0.3
 Release:	2
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 A utility for sending and retrieving files using the IrXfer protocol.
 
-%description -l pl
-Program do wysy砤nia i pobierania plik體 przez protok蟪 IrXfer.
+%description -l pl.UTF-8
+Program do wysy艂ania i pobierania plik贸w przez protok贸艂 IrXfer.
 
 %prep
 %setup -q
