@@ -1,5 +1,5 @@
 Summary:	A utility for sending and retrieving files using the IrXfer protocol
-Summary(pl.UTF-8):   Program do wysyłania i pobierania plików przez protokół IrXfer
+Summary(pl.UTF-8):	Program do wysyłania i pobierania plików przez protokół IrXfer
 Name:		ircp
 Version:	0.3
 Release:	2
